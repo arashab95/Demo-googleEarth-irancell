@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.23307,35.71653]},"properties":{"ID":469937,"Longitude":51.23306751,"Latitude":35.71653497,"ServingSit":"T1052X","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.1726,35.74944]},"properties":{"ID":486627,"Longitude":51.17259979,"Latitude":35.74943797,"ServingSit":"T1563X","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.23283,35.71564]},"properties":{"ID":456304,"Longitude":51.23283148,"Latitude":35.71563774,"ServingSit":"T1052X","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.23264,35.71561]},"properties":{"ID":456328,"Longitude":51.23263836,"Latitude":35.71561161,"ServingSit":"T1052X","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.1714,35.71966]},"properties":{"ID":416847,"Longitude":51.17139816,"Latitude":35.71966212,"ServingSit":"T7878X","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.24326,35.71405]},"properties":{"ID":358950,"Longitude":51.24325991,"Latitude":35.71405232,"ServingSit":"T0268Y","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.24156,35.71416]},"properties":{"ID":303361,"Longitude":51.24156475,"Latitude":35.71415686,"ServingSit":"T0268Y","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.23226,35.71405]},"properties":{"ID":304875,"Longitude":51.23226285,"Latitude":35.71405232,"ServingSit":"T0268Y","BuildingFl":0,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.16366,35.75443]},"properties":{"ID":473274,"Longitude":51.16366267,"Latitude":35.7544271,"ServingSit":"T3505X","BuildingFl":4,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.1611,35.75342]},"properties":{"ID":472959,"Longitude":51.16109848,"Latitude":35.75341711,"ServingSit":"T3505X","BuildingFl":17,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.16116,35.75705]},"properties":{"ID":476001,"Longitude":51.16116285,"Latitude":35.75704779,"ServingSit":"T0633Y","BuildingFl":18,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.16094,35.757]},"properties":{"ID":460364,"Longitude":51.16093755,"Latitude":35.75700426,"ServingSit":"T0633Y","BuildingFl":9,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.16464,35.75688]},"properties":{"ID":460965,"Longitude":51.164639,"Latitude":35.75688237,"ServingSit":"T0633Y","BuildingFl":29,"Status":"Running","height":0}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.16052,35.75687]},"properties":{"ID":465815,"Longitude":51.16051912,"Latitude":35.75687366,"ServingSit":"T0633Y","BuildingFl":0,"Status":"Running","height":0}}
+]}
